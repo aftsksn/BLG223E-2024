@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Multi-Level Process Scheduler System (BLG223E)
 
 A robust, multi-level process scheduling simulation implemented in C++ for the **BLG223E Data Structures** course at **Istanbul Technical University (ITU)**. 
